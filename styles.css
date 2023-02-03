@@ -1,0 +1,39 @@
+* {
+    background-color: #89accd;
+    background-attachment: fixed;
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+    
+}
+.navbarcontainer{
+    display: flex;
+  
+    justify-content: center;
+    flex-direction:row;
+    height: 16vh;
+    width: 100vw;
+    background-color: white
+}
+.navbarcontainer button{
+    padding: 6px 45px;
+    
+    background-color: transparent;
+    transition: 0.5s;
+    margin: 30px;
+}
+.navbarcontainer h1{
+    position: absolute;
+    font-size: 40px;
+    letter-spacing: 3px;
+    transition: 0.7s;
+}
+.navbarcontainer button:hover{
+    font-size: 14px;
+    cursor: pointer;
+}
+.navbarcontainer a{
+    background-color: white
+}
+
+

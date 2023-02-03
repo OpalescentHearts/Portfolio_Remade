@@ -1,0 +1,361 @@
+
+/* Projects List Page */
+.projectcontainer1{
+    height: 40%;
+    width: 40%;
+    background-color: #333;
+    position: absolute;
+    top: 28%;
+    left: 7%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+}
+.projectcontainer1 h1{
+    background-color: transparent;
+}
+.projectspicture1{
+    height: 100%;
+    width: 57%;
+    background-color: white;
+    position: absolute;
+    border-radius: 1%;
+}
+.projectname1 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 20%;
+    left:65%;
+    color:white;
+    text-align: center;
+}
+.projectname1 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:61%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer2{
+    height: 40%;
+    width: 40%;
+    background-color: #333;
+    position: absolute;
+    top: 28%;
+    left: 53%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+}
+.projectcontainer2 h1{
+    background-color: transparent;
+}
+.projectspicture2{
+    height: 100%;
+    width: 57%;
+    background-color: white;
+    position: absolute;
+    border-radius: 1%;
+}
+.projectname2 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 20%;
+    left:65%;
+    color:white;
+    text-align: center;
+}
+.projectname2 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:60%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer3{
+    height: 40%;
+    width: 40%;
+    background-color: #333;
+    position: absolute;
+    top: 100%;
+    left: 7%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+}
+.projectcontainer3 h1{
+    background-color: transparent;
+}
+.projectspicture3{
+    height: 100%;
+    width: 57%;
+    background-color: white;
+    position: absolute;
+    border-radius: 1%;
+}
+.projectname3 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 1%;
+    left:66%;
+    color:white;
+    text-align: center;
+}
+.projectname3 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:57%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer4{
+    height: 40%;
+    width: 40%;
+    background-color: #333;
+    position: absolute;
+    top: 100%;
+    left: 53%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+}
+.projectcontainer4 h1{
+    background-color: transparent;
+}
+.projectspicture4{
+    height: 80%;
+    max-width: 100%;
+    top: 10%;
+    background-color: white;
+    position: absolute;
+    border-radius: 1%;
+    
+}
+.projectname4 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 210%;
+    top: -1%;
+    left:40%;
+    color:white;
+    text-align: center;
+}
+.projectname4 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 210%;
+    top: 88%;
+    left:37%;
+    color:white;
+    text-align: center;
+}
+
+.projectcontainer5{
+    height: 40%;
+    width: 40%;
+    background-color: #333;
+    position: absolute;
+    top: 174%;
+    left: 7%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+}
+.projectcontainer5 h1{
+    background-color: transparent;
+}
+.projectspicture5{
+    height: 80%;
+    width: 100%;
+    top: 10%;
+    background-color: white;
+    position: absolute;
+    border-radius: 1%;
+}
+.projectname5 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 210%;
+    top: -1%;
+    left:40%;
+    color:white;
+    text-align: center;
+}
+.projectname5 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 80%;
+    left:57%;
+    color:white;
+    
+}
+
+.projectcontainer6{
+    height: 40%;
+    width: 40%;
+    background-color: #333;
+    position: absolute;
+    top: 174%;
+    left: 53%;
+    padding-bottom: 10%;
+    border-radius: 1%;
+}
+.projectcontainer6 h1{
+    background-color: transparent;
+}
+.projectspicture6{
+    height: 100%;
+    width: 57%;
+    background-color: white;
+    position: absolute;
+    border-radius: 1%;
+}
+.projectname6 h1{
+    background-color: transparent;
+    position: absolute;
+    font-size: 300%;
+    top: 20%;
+    left:65%;
+    color:white;
+    text-align: center;
+}
+.projectname6 h2{
+    background-color: transparent;
+    position: absolute;
+    font-size: 250%;
+    top: 40%;
+    left:58%;
+    color:white;
+    text-align: center;
+}
+
+.bottomborder{
+    position: absolute;
+    height: 6vh;
+    width: 100vw;
+    background-color: white;
+    top: 240%;
+}
+/* All Projects Pages */
+.projectbackground{
+    height: 73vh;
+    width: 100vw;
+    background-color: #333;
+    position: absolute;
+    top: 58%;
+    left: 0%;
+    padding-bottom: 10%;
+    overflow: hidden;
+}
+
+.ProjectsTitle1{
+    top: 25%;
+    left: 40%;
+    position: absolute;
+}
+.ProjectsTitle1 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle1 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle2{
+    top: 25%;
+    left: 33%;
+    position: absolute;
+}
+.ProjectsTitle2 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle2 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle3{
+    top: 25%;
+    left: 43%;
+    position: absolute;
+}
+.ProjectsTitle3 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle3 h2{
+    font-size: 330%;
+}
+
+.ProjectsTitle4{
+    top: 25%;
+    left: 37%;
+    position: absolute;
+}
+.ProjectsTitle4 h1{
+    font-size: 330%;
+    text-align: center;
+    
+}
+.ProjectsTitle4 h2{
+    font-size: 330%;
+}
+
+.Projectsinfobox{
+    top: 9%;
+    left: 17%;
+    position: absolute;
+    background-color: white;
+    height: 55vh;
+    width: 65vw;
+    padding-bottom: 10%;
+    border-radius: 1%;
+    padding-left: 0%;
+}
+.Projectsinfobox p{
+    position: absolute;
+    top:18%;
+    left: 0%;
+    background-color: transparent;
+    font-size: 150%;
+    text-align: center;
+    padding: 5%;
+    
+}
+
+h1, h2 { 
+  margin: 0; 
+  text-shadow: 0 2px rgba(0,0,0,.5);
+}
+
+/* change the text */
+.textbuttonscontainer{
+    top: 9%;
+    left: 17%;
+    position: absolute;
+    background-color: lightgrey;
+    height: 10vh;
+    width: 65vw;
+    border-radius: 1%;
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+}
+.textbuttonscontainer button{
+    padding: 6px 45px;
+    background-color: transparent;
+    transition: 0.5s;
+    margin: 1.60%;
+    align-content: center;
+}

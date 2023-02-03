@@ -1,0 +1,13 @@
+.infocontainer{
+    height: 40vh;
+    width: 60vw;
+    background-color: white;
+    position: absolute;
+    top: 28%;
+    left: 20%;
+    padding-bottom: 10%;
+}
+.infocontainer h2{
+    background-color: transparent;
+
+}

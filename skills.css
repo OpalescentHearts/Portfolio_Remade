@@ -1,0 +1,80 @@
+.skillsbox1{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 25%;
+    left: 12%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox2{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 25%;
+    left: 32%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox3{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 25%;
+    left: 52%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox4{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 25%;
+    left: 72%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox5{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    left: 12%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox6{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    left: 32%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox7{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    left: 52%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}
+.skillsbox8{
+    height: 10vh;
+    width: 15vw;
+    background-color: white;
+    position: absolute;
+    top: 60%;
+    left: 72%;
+    padding-bottom: 10%;
+    border-radius: 2%;
+}

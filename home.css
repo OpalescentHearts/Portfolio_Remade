@@ -1,0 +1,13 @@
+.main{
+    font-size: 300%;
+}
+.main h1 {
+    top: 30%;
+    left: 15%;
+    position: absolute;
+}
+.main h2 {
+    top: 60%;
+    left: 24%;
+    position: absolute;
+}
